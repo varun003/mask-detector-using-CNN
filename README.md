@@ -1,5 +1,6 @@
 # mask-detector-using-CNN
 
-![AccVal_acc](https://user-images.githubusercontent.com/17081707/212460786-e8b01a1b-79d8-4fe3-8413-3bbfac749803.png)
 
-![LossVal_loss](https://user-images.githubusercontent.com/17081707/212460796-a290a298-69c9-46b8-8d97-9ebb21f7df57.png)
+![LossVal_loss](https://user-images.githubusercontent.com/17081707/212461161-d5107c84-ea3c-4ec7-9b3a-688946b75525.png)
+
+![AccVal_acc](https://user-images.githubusercontent.com/17081707/212461172-4d0f7fe7-3f88-4ddc-8363-fd34c00149f7.png)
