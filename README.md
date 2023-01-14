@@ -1,4 +1,4 @@
-# mask-detector-using-CNN
+# Mask-detector-using-CNN
 
 
 
